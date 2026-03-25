@@ -13,8 +13,8 @@ python-dotenv>=1.0.0
 # Gravação de áudio (para funcionalidade de voz)
 streamlit-mic-recorder>=0.0.4
 
+# HTTP requests (ElevenLabs API)
+requests>=2.28.0
+
 # Processamento de áudio (opcional, para manipulação avançada)
 # pydub>=0.25.1
-
-# Utilitários
-pathlib>=1.0.1
